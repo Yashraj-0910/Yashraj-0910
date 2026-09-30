@@ -14,7 +14,7 @@ I'm an IT engineering student passionate about building practical software solut
 
 ### 🛠️ Technologies I Work With
 
-**Languages:** Java, JavaScript, Python, SQL
+**Languages:** Java, JavaScript, SQL
 **Frontend:** React, HTML, CSS, Tailwind CSS
 **Backend:** Node.js, Express.js, Spring Boot
 **Database:** PostgreSQL, MySQL
